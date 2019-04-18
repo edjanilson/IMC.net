@@ -1,0 +1,10 @@
+C:\Users\Edjanilson\Desktop\C# projects\ImcNet\ImcNet\bin\Debug\ImcNet.exe.config
+C:\Users\Edjanilson\Desktop\C# projects\ImcNet\ImcNet\bin\Debug\ImcNet.exe
+C:\Users\Edjanilson\Desktop\C# projects\ImcNet\ImcNet\bin\Debug\ImcNet.pdb
+C:\Users\Edjanilson\Desktop\C# projects\ImcNet\ImcNet\obj\Debug\ImcNet.csprojAssemblyReference.cache
+C:\Users\Edjanilson\Desktop\C# projects\ImcNet\ImcNet\obj\Debug\ImcNet.frmTelaPrincipal.resources
+C:\Users\Edjanilson\Desktop\C# projects\ImcNet\ImcNet\obj\Debug\ImcNet.Properties.Resources.resources
+C:\Users\Edjanilson\Desktop\C# projects\ImcNet\ImcNet\obj\Debug\ImcNet.csproj.GenerateResource.cache
+C:\Users\Edjanilson\Desktop\C# projects\ImcNet\ImcNet\obj\Debug\ImcNet.csproj.CoreCompileInputs.cache
+C:\Users\Edjanilson\Desktop\C# projects\ImcNet\ImcNet\obj\Debug\ImcNet.exe
+C:\Users\Edjanilson\Desktop\C# projects\ImcNet\ImcNet\obj\Debug\ImcNet.pdb
