@@ -1,6 +1,6 @@
 IMC.net 
 
-Pequeno sistema que calcula o IMC - Índice de Massa Corporal. Sistema solicita peso e altura, em seguida é exibido o seu IMC bem como uma tabela exibindo o IMC e a situação de cada IMC.O objetivo desta aplicação é demonstrar via software como realizar o cálculo do IMC.
+Pequeno sistema que calcula o IMC - Índice de Massa Corporal. Sistema solicita peso e altura, em seguida é exibido o seu IMC bem como uma tabela exibindo o IMC e a situação de cada IMC. O objetivo desta aplicação é demonstrar via software como realizar o cálculo do IMC.
 
 Detalhes da implementação
 
