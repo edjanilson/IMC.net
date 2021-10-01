@@ -1,13 +1,13 @@
-IMC.net 
+IMC.net
 
-Pequeno sistema que calcula o IMC - Índice de Massa Corporal. Sistema solicita peso e altura, em seguida é exibido o seu IMC bem como uma tabela exibindo o IMC e a situação de cada IMC. O objetivo desta aplicação é demonstrar via software como realizar o cálculo do IMC.
+Small system that calculates the BMI - Body Mass Index. System prompts for weight and height, then your BMI is displayed as well as a table showing the BMI and status of each BMI. The purpose of this application is to demonstrate via software how to calculate the BMI.
 
-Detalhes da implementação
+Implementation Details
 
-Tecnologias utilizadas na implementação:
+Technologies used in implementation:
 
-Sistema feito na linguagem de programação C# usando o template do Windows forms (mesma tecnologia usada nos sistemas operacionais da Microsoft).
+System made in C# programming language using Windows forms template (same technology used in Microsoft operating systems).
 
-Pré-requisitos
+Prerequisites
 
-Instalação do .Net framework (a máquina virtual da plataforma .net)
+Installation of the .Net framework (the virtual machine of the .net platform)
